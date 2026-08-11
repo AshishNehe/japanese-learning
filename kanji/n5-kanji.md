@@ -42,3 +42,19 @@
 ### Progress
 
 **Day 02 — 10 kanji learned**
+
+## Day 03
+
+| Kanji | Reading      | Meaning       |
+| ----- | ------------ | ------------- |
+| 田     | た / だ        | Rice field    |
+| 車     | くるま / しゃ     | Car / Vehicle |
+| 門     | もん / かど      | Gate          |
+| 口     | くち / こう      | Mouth         |
+| 人     | ひと / じん / にん | Person        |
+
+### Progress
+
+**Day 03 — 5 kanji learned**
+
+
