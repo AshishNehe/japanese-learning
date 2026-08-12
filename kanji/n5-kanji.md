@@ -57,4 +57,17 @@
 
 **Day 03 — 5 kanji learned**
 
+## Day 04
+
+| Kanji | Reading                | Meaning     |
+| ----- | ---------------------- | ----------- |
+| 本     | ほん (hon)               | Book        |
+| 大     | おお / だい (oo / dai)     | Big / Large |
+| 小     | ちい / しょう (chii / shou) | Small       |
+| 火     | ひ / か (hi / ka)        | Fire        |
+| 子     | こ / し (ko / shi)       | Child       |
+
+### Progress
+
+**Day 04 — 5 kanji learned**
 
