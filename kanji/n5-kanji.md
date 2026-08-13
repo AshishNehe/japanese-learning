@@ -71,3 +71,16 @@
 
 **Day 04 — 5 kanji learned**
 
+## Day 05
+
+| Kanji | Reading | Meaning |
+|---|---|---|
+| 女 | おんな / じょ | Woman |
+| 父 | ちち / ふ | Father |
+| 雨 | あめ / う | Rain |
+| 左 | ひだり / さ | Left |
+| 右 | みぎ / ゆう | Right |
+
+### Progress
+
+**Day 05 — 5 kanji learned**
