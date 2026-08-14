@@ -84,3 +84,17 @@
 ### Progress
 
 **Day 05 — 5 kanji learned**
+
+## Day 06
+
+| Kanji | Reading | Meaning |
+|---|---|---|
+| 上 | うえ / じょう | Up / Above |
+| 下 | した / か | Down / Below |
+| 林 | はやし / りん | Woods |
+| 森 | もり / しん | Forest |
+| 円 | えん | Yen / Circle |
+
+### Progress
+
+**Day 06 — 5 kanji learned**
