@@ -113,7 +113,6 @@ What will you do on the weekend?
 I will go to the park with my friend.
 
 ---
-
 ## Practice
 
 - Practiced using を with objects
