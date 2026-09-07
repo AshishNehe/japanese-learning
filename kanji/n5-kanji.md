@@ -98,3 +98,14 @@
 ### Progress
 
 **Day 06 — 5 kanji learned**
+
+## Day 7
+
+| Kanji | Reading | Meaning      |
+| ----- | ------- | ------------ |
+| 百     | ひゃく     | Hundred      |
+| 千     | せん      | Thousand     |
+| 万     | まん      | Ten thousand |
+| 生     | せい      | Life / Birth |
+
+
